@@ -1,0 +1,21 @@
+{
+  "commands": [
+    {
+      "id":       "cb2ba904-1271-4d59-a3af-ba332a15b120",
+      "name":     "Agreement",
+      "isHeader": true
+    },
+    {
+      "id":       "8207d127-0320-4bdf-8a97-555d5294e16c",
+      "name":     "Subject/Verb",
+      "parent":   "Agreement",
+      "settings": {
+        "text":     "In the present tense, a singular verb HAS an \"s\" on the end. A plural subject does not. The puppy HAS a toy. The puppies HAVE a toy.",
+        "color":    "blue",
+        "style":    [
+          "bold"
+        ]
+      }
+    }
+  ]
+}

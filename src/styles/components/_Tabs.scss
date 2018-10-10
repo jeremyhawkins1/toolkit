@@ -1,0 +1,36 @@
+/*
+ * @Author: Jeremy Hawkins 
+ * @Date: 2018-08-07 15:17:42 
+ * @Last Modified by: Jeremy Hawkins
+ * @Last Modified time: 2018-08-16 11:26:26
+ */
+
+   .MenuItems {
+      max-height: 0;
+      overflow: hidden;
+      background: $iron;
+      color: $tuxedo;
+      transition: max-height .35s;
+    }
+    .MenuItem {
+      overflow: hidden;
+      background: $iron;
+      width: 100%;
+      color: $tuxedo;
+      transition: max-height .35s;
+      
+      input[type=radio] + label::after {
+        content: "\25BC";
+      }
+      input[type=radio]:checked + label::after {
+        transform: rotateX(180deg);
+      }
+    }
+    input:checked ~ .MenuItems {
+      max-height: 100%; 
+      overflow: visible;
+    }
+    input:checked ~ .MenuItem {
+      max-height: 100%;
+      overflow: visible;
+    }

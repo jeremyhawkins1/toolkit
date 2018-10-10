@@ -1,0 +1,232 @@
+{
+  "menuItems":[
+    {
+      "id":     "33ab55f4-d8e5-4d1c-8f06-835b3fe76c0b",
+      "title": "The Organization",
+      "commands": [
+        {
+          "id":     "442ec222-ceb7-49d4-81e1-0b49da57611f",
+          "title":  "The Organization",
+          "settings": {
+            "text":   "Organization means that the paper is easy to follow and makes sense.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "aaf8e023-aefe-4aae-8037-80bdce77e0fa",
+      "title":  "Alphabetize Resources",
+      "commands": [
+        {
+          "id":     "61d78354-aa21-4fb6-9281-5d221d0147af",
+          "title":  "Alphabetize Resources",
+          "settings": {
+            "text":   "All the sources on your Works Cited or Reference page must be in alphabetical order, either by  the author's last name or by a key word if there is no listed author.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "2646d160-457f-433d-baaf-ed11b89cc1be",
+      "title":  "Announcement/Declaration",
+      "commands": [
+        {
+          "id":     "b834d81e-1542-4166-84b0-f01792e59208",
+          "title":  "Announcement/declaration",
+          "settings": {
+            "text":   "In MLA papers, do not announce, \"This paper is going to be about … \" ",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "c4eb8b52-9c20-47d2-809c-c33221567797",
+      "title":  "APA Format",
+      "commands": [
+        {
+          "id":     "c840b990-9635-4466-bc62-47e6efb2d689",
+          "title":  "APA Format",
+          "settings": {
+            "text":   "The American Psychological Association (APA) sets style and format guidelines for papers in all of the behavioral sciences. Every detail is explained in the Plagiarism section of our Lib Guide. ",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "c40d77e3-6fbd-44d6-b573-3e571f190d7d",
+      "title":  "Chicago (Turabia)",
+      "commands": [
+        {
+          "id":     "d063f61d-13b3-4d5b-9efa-790857166b84",
+          "title":  "Chicago (Turabia)",
+          "settings": {
+            "text":   "History and journalism usually use Chicago (Turabian) style and format guidelines. Every detail is explained in the Plagiarism section of our Lib Guide.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "593ca167-bae9-47e2-99fc-5b9b03853b91",
+      "title":  "Conjunction choice/usage",
+      "commands": [
+        {
+          "id":       "dd588ba3-c1a1-4de6-84cd-df9369c8f4b2",
+          "title":    "Conjunction choice/usage",
+          "settings": {
+            "text":   "The conjunctions or transition words/phrases that you choose provide an easy \"trail\" for the reader.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "ed68248b-6acf-4333-86a1-894e9e6d0c08",
+      "title":  "Indenting paragraphs",
+      "commands": [
+        {
+          "id":       "7742b91d-dea3-44e1-a3a2-966f51d7e9fb",
+          "title":    "Indenting paragraphs",
+          "settings": {
+            "text":   "Each paragraph must be indented one tab (five spaces). If the paper is single-spaced, an extra line can be inserted to indicate paragraph breaks instead.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "8e2ac97a-0407-448e-b88b-77e96949b01d",
+      "title":  "Intro \"Hook\"",
+      "commands": [
+        {
+          "id":       "938704d5-fed4-455c-9a1e-e1e5d7ab2822",
+          "title":     "Intro \"Hook\"",
+          "settings": {
+            "text":   "An interesting \"hook\" in the very first paragraph will make the reader want to read what you have written.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "69f856aa-c3be-44e1-9b5b-30e29b97e27f",
+      "title":  "Intro/conclusion consistency",
+      "commands": [
+        {
+          "id":       "a5a5668f-b205-4e74-9ae5-dc9d15c93210",
+          "title":    "Intro/conclusion consistency",
+          "settings": {
+            "text":   "The main idea of your introduction and conclusion must match. If your intro says that you are in favor of something and the conclusion says that you are against it, the reader will be very confused.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "149cab05-01be-45cc-8ed6-0278aec1cd6f",
+      "title":  "MLA format",
+      "commands": [
+        {
+          "id":       "7f464015-d8cb-4a40-b9e3-8577f4dc30d4",
+          "title":    "MLA format",
+          "settings": {
+            "text":   "The Modern Language Association (MLA) sets style and format guidelines for papers in ENGL, the humanities, and the arts. Every detail is explained in the Plagiarism section of our Lib Guide.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "4287ec41-4eb0-4c46-845f-37c8839f01f4",
+      "title":  "Thesis statement",
+      "commands": [
+        {
+          "id":       "0f27e5cf-8e77-4990-b305-f20c895bcdf6",
+          "title":    "Thesis statement",
+          "settings": {
+            "text":   "The thesis statement of a paper controls the development of the entire paper. It explains what the paper is about and how it will be developed.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "0b4f77aa-b982-45fc-b3b5-88cf65ee7705",
+      "title":  "Topic sentences",
+      "commands": [
+        {
+          "id":       "57cc8bc2-2cb2-438c-a2ce-3014c4dc6c02",
+          "title":    "Topic sentences",
+          "settings": {
+            "text":   "Each paragraph needs a topic sentence that directly relates to and carries forth the idea in the thesis statement.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

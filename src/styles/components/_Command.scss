@@ -1,0 +1,31 @@
+/*
+ * @Author: Jeremy Hawkins 
+ * @Date: 2018-08-06 13:06:44 
+ * @Last Modified by: Jeremy Hawkins
+ * @Last Modified time: yyyy-08-dd 13:16:59
+ */
+
+.CommandList {
+  max-height: 0;
+  overflow: hidden;
+  background: $sunshine;
+  transition: max-height .35s;
+}
+
+
+
+button{
+  background: $sunshine;
+  color: $tuxedo;
+  display: block;
+  width: 100%;
+}
+
+input:checked ~ .CommandList {
+  max-height: 100%;
+  overflow: visible;
+}
+input:checked ~ .button-command {
+  max-height: 100%;
+  overflow: visible;
+}

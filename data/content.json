@@ -1,0 +1,251 @@
+{
+  "menuItems": [
+    {
+      "id":     "aa902474-f545-4027-a772-53da2320f1c3",
+      "title": "The Content",
+      "commands": [
+        {
+          "id":     "3122b868-b312-4780-86ad-c8f9c0648ace",
+          "title":  "The Content",
+          "settings": {
+            "text":   "Content is what your paper actually says. ",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+        ]
+    },
+    {
+      "id":     "5113fe72-dae2-4d57-b3a8-29e8cea256cc",
+      "title":  "Contradictory information",
+      "commands": [
+        {
+          "id":     "81f5090a-3e02-4a25-9249-e0e9f64549b6",
+          "title":  "Contradictory information",
+          "settings": {
+            "text":   "What you say here contradicts what you said earlier. This confuses the reader. Which idea do you want to keep? ",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "e8b7bd64-8d4c-4044-ae2a-b91eb5e1f882",
+      "title":  "Etc./Incomplete idea",
+      "commands": [
+        {
+          "id":       "5d4e481a-05b3-417a-a403-68f88029e1b0",
+          "title":    "Etc./Incomplete idea",
+          "settings": {
+            "text":   "It is the writer's job to tell the reader what he needs to know. It is not the reader's job to figure it out.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]          
+    },
+    {
+      "id":     "cf1f9e18-7572-4e25-8722-675c53420c30",
+      "title":  "Expand ideas",
+      "commands": [
+        {
+          "id":       "a191feb6-e394-4726-b226-7f64416e72ad",
+          "title":    "Expand ideas",
+          "settings": {
+            "text":   "Give more details about this idea so the reader understands what you want to say. Do not assume knowledge on the part of the reader.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "92acf7fe-345a-480a-8e16-cd6f72b1ea03",
+      "title":  "Generalities",
+      "commands": [
+        {
+          "id":       "53e68aaa-e48c-4932-95af-5b6fe408713d",
+          "title":    "Generalities",
+          "settings": {
+            "text":   "Avoid saying or implying that everyone, all people, all women, or all of any group believe the same thing.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]   
+    },
+		{
+      "id":     "92acf7fe-345a-480a-8e16-cd6f72b1ea03",
+      "title":  "Illogical statement",
+      "commands":[
+        {
+          "id":       "314512e2-91b8-418d-86b7-fd7e845cdd94",
+          "title":    "Illogical statement",
+          "settings": {
+            "text":   "This statement does not make sense and will confuse the reader.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "bc425dd9-861e-43af-a13e-966ccc1d43d2",
+      "title":  "Off topic",
+      "commands": [
+        {
+          "id":     "ed68248b-6acf-4333-86a1-894e9e6d0c08",
+          "title":  "Off topic",
+          "settings": {
+            "text":   "You have gotten away from the main idea of the paper, the thesis statement, or the topic sentences. Bring it all back to a unified idea.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "88321a37-e178-42af-90b1-802c6038a5a3",
+      "title":  "Opinion",
+      "commands":[
+        {
+          "id":     "e4729121-8312-4b31-9c02-0d14143cd21d",
+          "title":  "Opinion",
+          "settings": {
+            "text":   "Avoid inserting your opinions into academic, fact-based papers.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "2cc46792-7fe0-4e90-aa89-fac3ed9f48df",
+      "title":  "Quotation accuracy",
+      "commands": [
+        {
+          "id":     "149cab05-01be-45cc-8ed6-0278aec1cd6f",
+          "title":  "Quotation accuracy",
+          "settings": {
+            "text":   "Make sure that you have used information from sources accurately. Leaving out a word or two can totally change the meaning.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "0bcb5a04-4d57-43ea-949e-1640dd08c0ff",
+      "title":  "Repetitve ideas",
+      "commands": [
+        {
+          "id":     "149cab05-01be-45cc-8ed6-0278aec1cd6f",
+          "title":  "Repetitve ideas",
+          "settings": {
+            "text":   "You have said the same thing at least twice. Express your idea once, strongly, and then move on to the next idea. ",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "965a4f0a-aac4-402c-a76b-52ff8d5c2923",
+      "title":  "Simplify ideas or expressison",
+      "commands": [
+        {
+          "id":     "89bb1ab9-e077-483f-aeb7-08687aed2c6e",
+          "title":  "Simplify ideas or expressison",
+          "settings": {
+            "text":   "Look for an easier way or simpler words to explain this idea. One great example is better than three or four mediocre ones.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "f45fcfdf-0d21-41eb-92c6-183cf86685de",
+      "title":  "Supporting detail",
+      "commands": [
+        {
+          "id":     "c513d4ae-c4af-46d6-97cc-e9f3484ddf88",
+          "title":  "Supporting detail",
+          "settings": {
+            "text":   "Make sure that you have included enough information so the reader clearly sees what you are saying.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":     "2625f631-1946-4102-8ee2-3f53d73bcd04",
+      "title":  "Type of source",
+      "commands": [
+        {
+          "id":     "9ff6b68a-0e1f-4fc3-8e70-e7007f20c338",
+          "title":  "Type of source",
+          "settings": {
+            "text":   "Academic papers require academic sources. Wikipedia is rarely accepted by college professors. Conside using web sites with .org, .gov, and .edu extensions rather than .com .",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

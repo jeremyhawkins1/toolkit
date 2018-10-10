@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "id":     "94d41437-0b24-4374-8e11-70a3b53e876b",
+      "name":   "Grammar",
+      "icon":   "GrammarIcon"
+    },
+    {
+      "id":     "32787a66-a53e-4bb9-86d8-d947e0868b36",
+      "name":   "Style",
+      "icon":   "StyleIcon"
+    },
+    {
+      "id":     "12c47374-b2d9-427c-bb51-f5440f47dc35",
+      "name":   "Organization",
+      "icon":   "OrganizationIcon"
+    },
+    {
+      "id":     "5852a1e1-b632-4f0c-adaf-8bc9494df5e7",
+      "name":   "Content",
+      "icon":   "ContentIcon"
+    },
+    {
+      "id":     "aa5e99ac-f1f4-4a5f-bba5-4be850da12f5",
+      "name":   "Plagiarism",
+      "icon":   "PlagiarismIcon"
+    }
+  ]
+}

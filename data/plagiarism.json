@@ -1,0 +1,156 @@
+{
+  "menuItems": [
+    {
+      "id":     "8beb23bb-abe7-4c32-9d9c-850a665ee1e0",
+      "title":  "Incomplete/incorrect citation",
+      "commands": [
+        {
+          "id":     "efffaa8e-0ef6-4741-8f18-1c51d5cc8b63",
+          "title":  "Incomplete/incorrect citation",
+          "settings": {
+            "text":   "See the appropriate formatting guide to make sure that all required information is included in your in text and references citations.  Failure to do so makes it plagiarism. ",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "pink",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "49faafe6-2910-4bf4-8652-b8d2732a338e",
+      "title":  "Found at www.xxx",
+      "commands": [
+        {
+          "id":     "120ebe82-a0a3-40eb-979c-e48fe29dee07",
+          "title":  "Found at www.xxx",
+          "settings": {
+            "text":   "This passage is plagiarized. It came from www.xxx .  Make sure to cite it.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "pink",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id":     "e35df178-ca84-41d9-9b43-1170545d192c",
+      "title":  "Statistics",
+      "commands": [
+        {
+          "id":     "365bf698-2fe2-4eb5-84b8-d12c88a1ae7e",
+          "title":  "Statistics",
+          "settings": {
+            "text":   "Statistics always need to be cited.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "pink",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":       "51fcdfd9-4da7-469c-b9ee-619d7b583caa",
+      "title":    "Differing font",
+      "commands": [
+        {
+          "id":     "ec207ff7-2ea2-48f1-ab39-4baa0ce9f15d",
+          "title":  "Differing font",
+          "settings": {
+            "text":   "You have copied and pasted information from different sources. It is easy to spot because the fonts are different types and/or sizes.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "green",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":       "e3615252-3f14-49d0-afad-af9564edbf05",
+      "title":    "Differing grammar structures",
+      "commands": [
+        {
+          "id":     "4a5b9040-2ba2-4416-99d2-c61e024b0f0c",
+          "title":  "Differing grammar structures",
+          "settings": {
+            "text":   "The grammar structures in this passage are very different from those of the rest of the paper. Readers will probably realize that the information is copied.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "green",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":       "72a6ac9b-0d3d-4311-aafc-a9483b817555",
+      "title":    "Differing level of vocabulary",
+      "commands": [
+        {
+          "id":     "3581157c-12dc-4c30-bd12-68f715419c45",
+          "title":  "Differing level of vocabulary",
+          "settings": {
+            "text":   "The vocabulary and diction in this passage are very different from those of the rest of the paper. Readers will probably realize that the information is copied.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "green",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":       "a971a74a-0644-40ed-b687-b36b74a07fc1",
+      "title":    "Included hyperlinks",
+      "commands": [
+        {
+          "id":     "2990d33e-bf49-4742-9a8d-f12ca8e8ca8f",
+          "title":  "Included hyperlinks",
+          "settings": {
+            "text":   "When you copy from a source that has embedded links, those links appear in your paper. If you do not cite the source, you have plagiarized.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "green",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+		{
+      "id":       "17247ab7-b5cf-4647-a991-22630386e158",
+      "title":    "Specific details ",
+      "commands": [
+        {
+          "id":     "e2bb06eb-7083-4214-aa0c-74fe210085a3",
+          "title":  "Specific details ",
+          "settings": {
+            "text":   "Using an obscure piece of information that is not common knowledge makes your work suspicious. See the handout about Common Knowledge.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "green",
+              "location":   "End"
+            }
+          }
+        }
+        ]
+    }
+  ]
+} 

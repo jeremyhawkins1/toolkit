@@ -1,0 +1,236 @@
+{
+  "menuItems": [
+    {
+      "id":     "dec742ed-3b27-49a6-9d06-3b2e37c6be1a",
+      "title": "Agreement",
+      "commands": [
+        {
+          "id":     "a0e927ce-8813-45f8-a5f8-c2ace57309ba",
+          "title":  "Agreement",
+          "settings": {
+            "text":   "Agreement means that all parts of the sentence match in kind and number",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "highlight":  "",
+              "location":   "End"
+            }
+          }
+        },
+        {
+          "id":     "09c1c255-494c-4804-a7b2-6ffe3242ffa8",
+          "title":  "Noun/Pronoun",
+          "settings": {
+            "text":   "A pronoun replaces a noun, so it must match the noun in number, gender, and type",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "highlight":  "",
+              "location":   "End"
+            }
+          }
+        },
+        {
+          "id":     "2e29ec1d-1286-454e-b0f7-642eeb13521f",
+          "title":  "Person",
+          "settings": {
+            "text":   "1st person is I/we; 2nd person is you; 3rd person is he/she/it/they.  Third person is generally used in academic writing, and second person is rarely used.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "highlight":  "",
+              "location":   "End"
+            }
+          }
+        },
+        {
+          "id":     "827df8c5-b9a6-47c0-b2a4-23525d2c3aab",
+          "title":  "Subject/Verb",
+          "settings": {
+            "text":   "In the present tense, a singular verb HAS an \"s\" on the end.  A plural subject does not.  The puppy LOVES the girl.  The puppies LOVE the girl.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+      ]
+    },
+    {
+        "id":     "a28e3ceb-8e91-4511-9899-2e8b440b5af5",
+        "title":  "Comma Use",
+        "commands": [
+          {
+            "id":     "b4e2d6d4-24bf-489a-9069-0091bf897cc4",
+            "title":  "Comma Use",
+            "settings": {
+              "text":       "A comma needs to be added, deleted, or changed.  Comma use depends on the rest of the structures in the sentence.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id":     "f5dbbece-dde2-4fa4-b342-c4cbfca10283",
+        "title":  "Pronouns",
+        "commands": [
+          {
+            "id":     "4ddf20ab-15f0-4ab9-b37e-29791364d27a",
+            "title":  "Pronouns",
+            "settings": {
+              "text":       "Pronouns take the place of nouns. We have subject, object, reflexive, relative, and possessive pronouns. They must agree with the noun they replace.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id":     "b179a62e-b3e2-4e6d-9b69-267022efd389",
+        "title":  "Sentence Integrity",
+        "commands": [
+          {
+            "id":     "29b882ca-3c31-4525-ae8f-9fe9146dbbf0",
+            "title":  "Comma Splice",
+            "settings": {
+              "text":       "A comma splice is two or more complete sentences joined only with a comma between them.  Add stronger punctuation or a transition word or phrase.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          },
+          {
+            "id":     "ffe0aee5-db35-45ea-8361-69ea5efc9cf7",
+            "title":  "Fragment",
+            "settings": {
+              "text":       "A fragment is an incomplete idea. It needs to be finished or connected to another thought",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          },
+          {
+            "id":     "15110d7e-3d52-43be-b2f7-3f05b306bf03",
+            "title":  "Fused Sentence",
+            "settings": {
+              "text":       "In a fused sentence, the of one idea is the subject of the other.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          },
+          {
+            "id":     "747d13d0-61d4-4337-a545-ed99a667e08e",
+            "title":  "Run-on Sentences",
+            "settings": {
+              "text":       "A run-on sentence is two or more complete ideas that are not connected with any punctuation or transition word or phrase.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          }
+
+        ]
+      },
+      {
+        "id":     "5dfdf458-6945-4e9a-bbe8-eaf1e8b2e8e6",
+        "title":  "Syntax",
+        "commands": [
+          {
+            "id":     "396fb6ad-4c2e-487b-953b-721a756bdd9d",
+            "title":  "Syntax",
+            "settings": {
+              "text":       "Syntax is the order in which words are used in a sentence.  Changing the order of words can change the meaning.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id":     "1fd09737-847f-4909-ae96-b89c9b2ff7e2",
+        "title":  "Verbs",
+        "commands": [
+          {
+            "id":     "9408a33f-e04d-48d9-8389-9aa11e3cc3e6",
+            "title":  "Literary Present",
+            "settings": {
+              "text":       "When writing about what happens in a story, poem, or play, use the present tense. If writing about what the author did, use the past tense.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          },
+          {
+            "id":     "60ea7273-d9ba-4086-a97f-7f6fb95d6677",
+            "title":  "Tense Choice",
+            "settings": {
+              "text":       "All verbs must be in the past, present, or future.  Consistency is important.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          },
+          {
+            "id":     "be723928-a026-4840-9406-4b4b1d58654d",
+            "title":  "Tense Shifting",
+            "settings": {
+              "text":       "When you describe a single action, do not move between times. It confuses the reader.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          },
+          {
+            "id":     "89cf57b4-102a-46a6-83a9-15fdfebcc26a",
+            "title":  "Verb Form Choice",
+            "settings": {
+              "text":       "The forms of a verb are simple, perfect, continuous, active, and passive.",
+              "style":{
+                "bold":       true,
+                "color":      "blue",
+                "highlight":  "",
+                "location":   "End"
+              }
+            }
+          }
+        ]
+      }
+  ]
+}

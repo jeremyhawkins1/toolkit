@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "id":     "94d41437-0b24-4374-8e11-70a3b53e876b",
+      "name":   "Grammar",
+      "icon":   "GrammarIcon",
+      "source": "https://online-03.hccs.edu/tutoring/data/grammar.json"
+    },
+    {
+      "id":     "32787a66-a53e-4bb9-86d8-d947e0868b36",
+      "name":   "Style",
+      "icon":   "StyleIcon",
+      "source": "https://online-03.hccs.edu/tutoring/data/style.json"
+    },
+    {
+      "id":     "12873024-bd53-4143-8c7d-bcf608aa96d5",
+      "name":   "Content",
+      "source": "https://online-03.hccs.edu/tutoring/data/content.json"
+    },
+    {
+      "id":     "47d26277-8359-49d2-a241-d025559b2726",
+      "name":   "Organization",
+      "source": "https://online-03.hccs.edu/tutoring/data/organization.json"
+    },
+    {
+      "id":     "30d5f711-5982-4662-a3b9-2ff2c0a1a0d9",
+      "name":   "Plagiarism",
+      "source": "https://online-03.hccs.edu/tutoring/data/plagiarism.json"
+    }
+  
+  ]
+}

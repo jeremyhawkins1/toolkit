@@ -1,0 +1,52 @@
+/*
+ * @Author: Jeremy Hawkins 
+ * @Date: 2018-08-07 15:13:06 
+ * @Last Modified by: Jeremy Hawkins
+ * @Last Modified time: 2018-08-09 21:13:55
+ */ 
+
+ .wrapper {
+   background-color: $sunshine;
+   color: $stratus;
+   margin: 0;
+   padding: 0;
+ }
+
+  input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+
+  input[type=checkbox] + label::after {
+    content: "+";
+  }
+  input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  
+  label {
+  position: relative;
+  display: block;
+  padding: 0 0 0 1em;
+  background: $tuxedo;
+  color: $stratus;
+  font-weight: bold;
+  line-height: 3;
+  &:after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    width: 3em;
+    height: 3em;
+    line-height: 3;
+    text-align: center;
+  }
+}
+
+.Menu {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}

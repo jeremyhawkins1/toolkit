@@ -1,0 +1,152 @@
+{
+  "menuItems": [
+    {
+      "id":     "c01d9e91-57bf-4253-918e-4e0992c7b546",
+      "title": "Abbreviations",
+      "commands": [
+        {
+          "id":     "13c2d245-b11d-4c50-a00a-a34a96f021d7",
+          "title":  "Abbreviations",
+          "settings": {
+            "text":   "Always write out full word or phrase the first time you use something that will be abbreviated later. In (), add the abbreviation.",
+            "style": {
+              "bold":       true,
+              "color":      "blue",
+              "Highlight":  "",
+              "location":   "End"
+            }
+          }
+        }
+        ]
+        },
+        {
+          "id":     "5f5ff22f-895a-4519-94a2-2d5ea7e7d442",
+          "title": "Diction",
+          "commands": [
+            {
+              "id":     "36b311fd-40be-4e96-9020-b6afa8951942",
+              "title":  "Diction",
+              "settings": {
+                "text":   "Diction is the level and type of vocabulary you choose. If it is too simple, the reader might be insulted. If it is too \"fancy,\" the reader might not understand.",
+                "style": {
+                  "bold":       true,
+                  "color":      "blue",
+                  "Highlight":  "",
+                  "location":   "End"
+                }
+              }
+            },
+            {
+              "id":     "04fdc943-fd9b-4a38-a382-595f7058ca1d",
+              "title":  "Awkward",
+              "settings": {
+                "text":   "Awkward diction often results from translating from one language to another or from conversational to formal diction.",
+                "style": {
+                  "bold":       true,
+                  "color":      "blue",
+                  "Highlight":  "",
+                  "location":   "End"
+                }
+              }
+            },
+            {
+              "id":     "48f3e769-c5de-45ce-987c-aaf963668bbd",
+              "title":  "Contractions",
+              "settings": {
+                "text":   "Contractions are missing letters - don't instead of do not. They are generally not acceptable in formal writing.",
+                "style": {
+                  "bold":       true,
+                  "color":      "blue",
+                  "Highlight":  "",
+                  "location":   "End"
+                }
+              }
+            }
+            
+          ]
+        },
+        {
+          "id":     "7a66e2a4-327d-4ffc-9d52-1670c8eade34",
+          "title": "Name Format",
+          "commands": [
+            {
+              "id":     "c5e7745e-71f4-44a6-aa9e-21b108cc2f82",
+              "title":  "Name Format",
+              "settings": {
+                "text":   "The first time you use a person's name, use first and last name. After that, always use the last name. Never use just the first name.",
+                "style": {
+                  "bold":       true,
+                  "color":      "blue",
+                  "Highlight":  "",
+                  "location":   "End"
+                }
+              }
+            }
+            ]
+          },
+          {
+            "id":     "2524f6de-6bf2-4a9d-9f14-dd2dcd78ad49",
+            "title": "Numeral Usage",
+            "commands": [
+              {
+                "id":     "767a271e-fa40-4ddb-864e-29330f167b83",
+                "title":  "Numeral Usage",
+                "settings": {
+                  "text":   "In general, write out numbers rather than using numerals. There are exceptions to this rule, which are available in a handout in the Lib Guide.",
+                  "style": {
+                    "bold":       true,
+                    "color":      "blue",
+                    "Highlight":  "",
+                    "location":   "End"
+                  }
+                }
+              }
+              ]
+            },
+            {
+              "id":     "3946aa2e-d9b9-4e61-9e1f-89efadf8bed7",
+              "title": "Word Choice",
+              "commands": [
+                {
+                  "id":     "27587f8c-9c75-4b7b-b6af-cf61bd4a2d63",
+                  "title":  "Word Choice",
+                  "settings": {
+                    "text":   "The word you have chosen here does not convey the meaning you intended. It might be too informal, too formal, too regional, or too slangy.",
+                    "style": {
+                      "bold":       true,
+                      "color":      "blue",
+                      "Highlight":  "",
+                      "location":   "End"
+                    }
+                  }
+                },
+                {
+                  "id":     "bc86c689-bcbd-4169-afe6-136c90b2cc77",
+                  "title":  "Inappropriate Language",
+                  "settings": {
+                    "text":   "Obscenity, \"cussing,\" or any language you would not use in front of your grandmother should not be used in academic writing. Choose appropriate words.",
+                    "style": {
+                      "bold":       true,
+                      "color":      "blue",
+                      "Highlight":  "",
+                      "location":   "End"
+                    }
+                  }
+                },
+                {
+                  "id":     "1e682cac-634f-4141-aea7-026e801c2087",
+                  "title":  "Informal/Texting Language",
+                  "settings": {
+                    "text":   "You are not texting a friend in this paper. You want to be seen as a well-educated person. Do not use text abbreviations.",
+                    "style": {
+                      "bold":       true,
+                      "color":      "blue",
+                      "Highlight":  "",
+                      "location":   "End"
+                    }
+                  }
+                }
+                ]
+              }
+  ]
+}
